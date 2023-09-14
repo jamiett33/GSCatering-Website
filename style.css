@@ -340,7 +340,7 @@ html {
     .navbar {
         position: fixed;
         width: 100%;
-        box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+        box-shadow: 0px 2px 10px grey;
         background-color: #FCb712;
         z-index: 1;
     }
